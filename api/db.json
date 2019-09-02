@@ -1,0 +1,55 @@
+{
+  "streams": [
+    {
+      "title": "My Stream",
+      "description": "This is a great stream.",
+      "id": 1
+    },
+    {
+      "title": "Other Stream",
+      "description": "Here's some stream",
+      "id": 2
+    },
+    {
+      "title": "Me Streaming Component Reuse!",
+      "description": "This stream is about refactoring!!!",
+      "id": 4
+    },
+    {
+      "title": "lig tv ",
+      "description": "this is great",
+      "id": 5
+    },
+    {
+      "title": "lig tv 2",
+      "description": "this is great",
+      "id": 6
+    },
+    {
+      "title": "sefsef",
+      "description": "sefsef",
+      "id": 7
+    },
+    {
+      "description": "cemil created a streamm",
+      "title": "My Tutoriols",
+      "id": 8
+    },
+    {
+      "title": "sefesf",
+      "description": "efsfes",
+      "id": 11
+    },
+    {
+      "title": "refactor ",
+      "description": "watch me refactor some components",
+      "id": 12
+    },
+    {
+      "title": "sefsefesf",
+      "description": "esfsfsef",
+      "userId": "115179737103847340283",
+      "id": 13
+    }
+  ]
+}
